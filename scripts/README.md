@@ -1,1 +1,1 @@
-Put your private/helper functions here.
+Put your functions here.
