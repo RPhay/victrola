@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Victrola</id>
+        <version>1.0.0</version>
+        <authors>Ryan Phay</authors>
+        <owners>The Green Pygmies</owners>
+        <description>Victrola Database Records Manager</description>
+        <releaseNotes></releaseNotes>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <copyright>(c) 2022 Green Pygmies All rights reserved.</copyright>
+        <tags></tags>
+        <dependencies>
+        </dependencies>
+    </metadata>
+</package>
